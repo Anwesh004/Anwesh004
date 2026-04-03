@@ -43,5 +43,5 @@
 
 ## 🐍 Contribution Snake Animation:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Anwesh004/Anwesh004/output/snake.svg" />
 </p>
