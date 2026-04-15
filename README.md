@@ -7,8 +7,7 @@
 ---
 
 ## 💫 About Me:
-🚀 Computer Science student building real-world projects  
-💡 Currently working on **RideGo (Ride-hailing system)**  
+🚀 Computer Science student building real-world projects   
 💻 Tech: PHP (XAMPP), JavaScript, Python  
 📊 Exploring Data Visualization & System Design  
 ⚡ Goal: Become a strong full-stack developer  
