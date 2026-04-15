@@ -39,9 +39,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
 
-## 🐍 Contribution Snake Animation:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anwesh004/Anwesh004/output/snake.svg" />
-</p>
